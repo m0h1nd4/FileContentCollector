@@ -21,7 +21,7 @@
     and copy their full path and content to the clipboard.
 
 .NOTES
-    Author: Your Name
+    Author: m0h1nd4
     Date: 2025-02-16
     Version: 1.0
 #>
