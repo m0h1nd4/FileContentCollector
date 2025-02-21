@@ -45,7 +45,7 @@ If you encounter an error about script execution being disabled, here are two op
 You can run the script with a temporary bypass by launching PowerShell with the `-ExecutionPolicy Bypass` parameter. For example, from a command prompt or Run dialog:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\output-files.ps1 D:\Programmieren\Python\portscanner "py"
+powershell -ExecutionPolicy Bypass -File .\output-files.ps1 D:\directory\to\list "py"
 ```
 
 ### Change the Execution Policy Permanently (Requires Administrator Privileges)
